@@ -1,4 +1,4 @@
-import CarCard from "../components/CarCard";
+import CarCard from "../Components/CarCard";
 
 function Cars() {
   const cars = [
