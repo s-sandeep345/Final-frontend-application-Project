@@ -41,7 +41,7 @@ import PaginationCars
 from "./Pages/PaginationCars";
 
 import APICars
-from "./Pages/APICars";
+from "./Pages/APIcars";
 
 import AdminPanel
 from "./Components/AdminPanel";
