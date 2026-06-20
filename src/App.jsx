@@ -8,46 +8,46 @@ import ThemeProvider
 from "./context/ThemeContext";
 
 import Navbar
-from "./components/Navbar";
+from "./Components/Navbar";
 
 import Home
-from "./pages/Home";
+from "./Pages/Home";
 
 import About
-from "./pages/About";
+from "./Pages/About";
 
 import Cars
-from "./pages/Cars";
+from "./Pages/Cars";
 
 import Contact
-from "./pages/Contact";
+from "./Pages/Contact";
 
 import Profile
-from "./pages/Profile";
+from "./Pages/Profile";
 
 import Services
-from "./pages/Services";
+from "./Pages/Services";
 
 import Service1
-from "./pages/Service1";
+from "./Pages/Service1";
 
 import Service2
-from "./pages/Service2";
+from "./Pages/Service2";
 
 import Service3
-from "./pages/Service3";
+from "./Pages/Service3";
 
 import PaginationCars
-from "./pages/PaginationCars";
+from "./Pages/PaginationCars";
 
 import APICars
-from "./pages/APICars";
+from "./Pages/APICars";
 
 import AdminPanel
-from "./components/AdminPanel";
+from "./Components/AdminPanel";
 
 import CarDetails
-from "./components/CarDetails";
+from "./Components/CarDetails";
 
 function App() {
 
